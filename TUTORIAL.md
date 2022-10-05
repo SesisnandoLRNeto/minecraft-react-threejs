@@ -1,11 +1,12 @@
 - [x] Boilerplate
-- [] Sky
-- [] Textures and images
-- [] Ground
-- [] Player
-- [] First person view
-- [] Gravity
-- [] Movement
+- [x] Sky
+- [x] Textures and images
+- [x] Ground
+- [x] Player
+- [x] Keyboard Inputs
+- [x] First person view
+- [x] Gravity
+- [x] Movement
 - [] State management
 - [] Cubes
 - [] Cube type selector
